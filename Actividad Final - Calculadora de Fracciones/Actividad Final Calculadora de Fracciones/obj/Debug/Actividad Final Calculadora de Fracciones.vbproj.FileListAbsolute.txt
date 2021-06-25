@@ -1,0 +1,15 @@
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.vbproj.AssemblyReference.cache
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad_Final_Calculadora_de_Fracciones.MDIParent1.resources
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad_Final_Calculadora_de_Fracciones.Resources.resources
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.vbproj.GenerateResource.cache
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.vbproj.CoreCompileInputs.cache
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\bin\Debug\Actividad Final Calculadora de Fracciones.exe.config
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\bin\Debug\Actividad Final Calculadora de Fracciones.exe
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\bin\Debug\Actividad Final Calculadora de Fracciones.pdb
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\bin\Debug\Actividad Final Calculadora de Fracciones.xml
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.exe
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.xml
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad Final Calculadora de Fracciones.pdb
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad_Final_Calculadora_de_Fracciones.FSumaDiferencia.resources
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad_Final_Calculadora_de_Fracciones.FDivisionProducto.resources
+C:\Users\Ada\source\repos\Actividad Final Calculadora de Fracciones\Actividad Final Calculadora de Fracciones\obj\Debug\Actividad_Final_Calculadora_de_Fracciones.FArrayFracciones.resources
