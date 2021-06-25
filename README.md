@@ -29,6 +29,6 @@ En este caso práctico se le pide crear una aplicación para realizar diferentes
 - Suma  y diferencia de fracciones, en este caso aparecerá un formulario que pedirá los datos de las dos fracciones y mostrará el resultado de la suma y la diferencia.
 - División y producto de fracciones, en este caso aparecerá un formulario que pedirá los datos de dos fracciones y mostrará el resultado de la suma y la división de las fracciones introducidas.
 - Array de fracciones, en este caso aparecerá un formulario preguntando cuantas fracciones quiere crear y a continuación pedirá los datos de todas las fracciones, las almacenará en un array y las mostrará por pantalla.
-- 
+
 En cada uno de los formularios aparecerán las opciones para salir de la aplicación o continuar con el menú de operaciones.
 Se valorará el diseño y creatividad de los formularios así como el buen funcionamiento de la aplicación.
