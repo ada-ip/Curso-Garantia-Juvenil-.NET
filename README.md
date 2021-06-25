@@ -11,7 +11,7 @@ En esta actividad se le pide que programe la clase racional, esta clase forma un
 - Construir un racional
 - Modificar un racional
 - Leer un racional.
-- 
+
 Genere una aplicación que trabaje con el objeto racional de forma que lea un número racional, lo muestre por pantalla y lo modifique, mostrando los resultados continuamente por pantalla.
 
 
