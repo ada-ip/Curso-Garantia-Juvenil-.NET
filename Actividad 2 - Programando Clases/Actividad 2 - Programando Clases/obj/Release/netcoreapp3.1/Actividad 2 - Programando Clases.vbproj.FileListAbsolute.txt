@@ -1,0 +1,12 @@
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.exe
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.deps.json
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.runtimeconfig.json
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.runtimeconfig.dev.json
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.dll
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\bin\Release\netcoreapp3.1\Actividad 2 - Programando Clases.pdb
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.AssemblyInfoInputs.cache
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.AssemblyInfo.vb
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.vbproj.CoreCompileInputs.cache
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.dll
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.pdb
+C:\Users\Ada\source\repos\Actividad 2 - Programando Clases\Actividad 2 - Programando Clases\obj\Release\netcoreapp3.1\Actividad 2 - Programando Clases.genruntimeconfig.cache
