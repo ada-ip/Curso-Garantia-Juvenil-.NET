@@ -1,4 +1,4 @@
-# Curso-Paro-.NET
+# Curso-Garantia-Juvenil-.NET
 Estos son algunos de los proyectos realizados en el curso del paro de Programación en .NET.
 
 Enunciados:
